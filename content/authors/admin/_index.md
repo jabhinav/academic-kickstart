@@ -70,4 +70,4 @@ user_groups:
 
 Hi, my name is Abhinav Jain. I work as a Research Engineer at IBM Research, India. I am broadly interested in multi-modal analytics where deep learning based algorithms are used to analyse content in text, images and videos for reasoning and further decision-making. 
 
-I have worked for two years on IBM Watson Compare & Comply service for structured data extraction from business documents. I have also been working on smart data preparation for downstream processing in AI based systems.
+I have worked for two years on IBM Watson Compare & Comply service for structured data extraction from business documents. I have also been working on smart data preparation for downstream processing in AI-based systems.
