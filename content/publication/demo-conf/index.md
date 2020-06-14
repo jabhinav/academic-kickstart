@@ -1,8 +1,12 @@
 ---
-title: "An example conference paper"
+title: "Radial Loss for Learning Fine-grained Video Similarity Metric"
 authors:
 - admin
-- Robert Ford
+- Prerna Agarwal
+- Shashank Mujumdar
+- Nitin Gupta
+- Sameep Mehta
+- Chiranjoy Chattopadhyay
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
@@ -19,18 +23,18 @@ publication_types: ["1"]
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, we propose the Radial Loss which utilizes category and sub-category labels to learn an order-preserving fine-grained video similarity metric. We propose an end-to-end quadlet-based Convolutional Neural Network (CNN) combined with Long Short-term Memory (LSTM) Unit to model video similarities by learning the pairwise distance relationships between samples in a quadlet generated using the category and sub-category labels. We showcase two novel applications of learning a video similarity metric - (i) fine-grained video retrieval, (ii) fine-grained event detection, along with simultaneous shot boundary detection, and correspondingly show promising results against those of the baselines on two new fine-grained video datasets.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper, we propose the Radial Loss which utilizes category and sub-category labels to learn an order-preserving fine-grained video similarity metric.
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: https://ieeexplore.ieee.org/document/8683003
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: '#'
 url_dataset: '#'
