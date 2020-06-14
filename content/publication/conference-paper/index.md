@@ -1,10 +1,12 @@
 ---
-title: "An example conference paper"
+title: "Coherent Visual Description of Textual Instructions"
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
+- Shashank Mujumdar
+- Nitin Gupta
+- Abhinav Jain
+- Sameep Mehta
+date: "2017-12-11"
+doi: "10.1109/ISM.2017.26"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *2017 IEEE International Symposium on Multimedia*
+publication_short: In *ISM*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Text is the easiest means to record information but need not always be the best means for understanding a concept. In psychological theories, it is argued that when information is presented visually, it provides a better means to understand a concept. While techniques exist for generating text from a given image, the inverse problem that is to automatically fetch coherent images to represent a given set of instructions (sequence of text), is a hard one. In this paper, we present a novel multistage framework to convert textual instructions into coherent visual descriptions (text instructions annotated with images). The key components in the proposed approach are: (i) novel framework, which combines the text as well as image analysis to generate visual descriptions; (ii) ensure coherency across visual descriptions, using a combination of deep learning and graph based approach. Effectiveness of our proposed approach is shown through a user study on a dataset of instructions and corresponding images collected from WikiHow website.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper, we present a novel multistage framework to convert textual instructions into coherent visual descriptions (text instructions annotated with images).
 
 tags:
 - Source Themes
@@ -30,7 +32,7 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
+url: https://ieeexplore.ieee.org/document/8241590
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: '#'
 url_dataset: '#'
@@ -43,7 +45,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -53,14 +55,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% alert note %}}
