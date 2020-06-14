@@ -28,19 +28,19 @@ summary: In this paper, we present a novel multistage framework to convert textu
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Custom Link
 url: https://ieeexplore.ieee.org/document/8241590
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
