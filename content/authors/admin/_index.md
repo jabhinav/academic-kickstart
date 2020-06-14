@@ -64,6 +64,4 @@ user_groups:
 # - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi, my name is Abhinav Jain. I work as a Research Engineer at IBM Research, India. I am broadly interested in multi-modal analytics where deep learning based algorithms are used to analyse content in text, images and videos for reasoning and further decision-making. 
