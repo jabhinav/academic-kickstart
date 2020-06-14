@@ -8,7 +8,7 @@ authors:
 - Sameep Mehta
 - Chiranjoy Chattopadhyay
 date: "2019-05-12T00:00:00Z"
-doi: "10.1109/ICASSP.2019.8683003"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-04-17T00:00:00Z"
@@ -67,13 +67,13 @@ projects:
 slides: ""
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
