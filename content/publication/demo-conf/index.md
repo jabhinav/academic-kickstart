@@ -7,11 +7,11 @@ authors:
 - Nitin Gupta
 - Sameep Mehta
 - Chiranjoy Chattopadhyay
-date: "2013-07-01T00:00:00Z"
+date: "2019-05-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-04-17T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,8 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*
+publication_short: In *ICASSP*
 
 abstract: In this paper, we propose the Radial Loss which utilizes category and sub-category labels to learn an order-preserving fine-grained video similarity metric. We propose an end-to-end quadlet-based Convolutional Neural Network (CNN) combined with Long Short-term Memory (LSTM) Unit to model video similarities by learning the pairwise distance relationships between samples in a quadlet generated using the category and sub-category labels. We showcase two novel applications of learning a video similarity metric - (i) fine-grained video retrieval, (ii) fine-grained event detection, along with simultaneous shot boundary detection, and correspondingly show promising results against those of the baselines on two new fine-grained video datasets.
 
@@ -35,14 +35,14 @@ featured: false
 links:
 - name: Custom Link
   url: https://ieeexplore.ieee.org/document/8683003
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
