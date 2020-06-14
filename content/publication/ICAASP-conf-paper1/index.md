@@ -29,7 +29,6 @@ abstract: In this paper, we propose the Radial Loss which utilizes category and 
 summary: In this paper, we propose the Radial Loss which utilizes category and sub-category labels to learn an order-preserving fine-grained video similarity metric.
 
 tags:
-- Source Themes
 featured: false
 
 links:
@@ -47,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
