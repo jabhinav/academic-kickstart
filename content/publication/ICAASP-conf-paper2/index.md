@@ -1,5 +1,5 @@
 ---
-title: "Radial Loss for Learning Fine-grained Video Similarity Metric"
+title: "Learning Convolutional Neural Networks with Deep Part Embeddings"
 authors:
 - Nitin Gupta
 - Shashank Mujumdar
