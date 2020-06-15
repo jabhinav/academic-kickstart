@@ -25,7 +25,7 @@ publication_short: In *ICASSP*
 abstract: We propose a novel concept of Deep Part Embeddings (DPEs), which can be used to learn new Convolutional Neural Networks (CNNs) for different classes. We define DPE as a neuron of a trained CNN along with its network of filter activations that is interpretable as a part of a class that the neuron contributes to. Given a new class C, we explore the idea of combining different DPEs that intuitively constitute C, from trained CNNs (not on C), into a network that learns the class C with few training samples. An important application of our proposed framework is the ability to modify a CNN trained on n classes to learn a new class with limited training data without significantly affecting its performance on the n classes. We visually illustrate the different network architectures and extensively evaluate their performance against the baselines.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we propose the a novel way of training CNNs with a small subset of training samples using Deep Part Embeddings.
+summary: In this paper, we propose a novel way of training CNNs with a small subset of training samples using Deep Part Embeddings.
 
 tags:
 featured: false
