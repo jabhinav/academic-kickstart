@@ -1,5 +1,5 @@
 ---
-title: Coherent Visual Description of Textual Instructions
+title: Visual Cues for Text
 summary: Provide visual aid for a sequence of text based instructions.
 tags:
 - Deep Learning

@@ -5,6 +5,7 @@ tags:
 - OCR Improvement
 - Deep Learning
 - Super Resolution
+- Loss Formulation
 date: "2017-08-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
