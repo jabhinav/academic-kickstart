@@ -35,7 +35,7 @@ links:
 - name: Link
   url: https://ieeexplore.ieee.org/document/8683003
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/jabhinav/Deep-Metric-Learning-for-Video-Understanding'
 url_dataset: ''
 url_poster: ''
 url_project: ''
