@@ -34,7 +34,7 @@ links:
 - name: Link
   url: https://dl.acm.org/doi/10.1145/3209542.3209566
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/jabhinav/Educational-Content-Enrichment'
 url_dataset: ''
 url_poster: ''
 url_project: ''
