@@ -21,7 +21,7 @@ links:
   name: Link
   url: https://github.com/jabhinav/Model-Learning
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/jabhinav/Model-Learning/blob/master/Deep_Part_Embeddings_Preprint.pdf"
 url_slides: ""
 url_video: ""
 
