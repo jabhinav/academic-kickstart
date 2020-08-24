@@ -18,7 +18,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Link
-  url: https://github.com/jabhinav/IBM-project
+  url: https://github.com/jabhinav/Coherent-Visual-Description-of-Textual-Instructions
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -31,4 +31,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-In this project, following multi-stage framework was developed to provide visual aid for a sequence of text based instructions in the form of coherent images associated with each of them - (a) For each instruction, visualisable phrases consisting of head action verbs and noun phrases are mined using standard practices like POS tagging, Dependency parsing and Co-reference resolution. (b) For each visualisable phrase, an API query is made to retrieve a set of images from a dataset crawled from sources such as WikiHow, Flickr, Google etc. Phrases and images together dictate the action being conducted in the instruction. (c) Across instructions sharing common information in the form of latent/non-latent entities, coherency is maintained using a graph based matching method utilising Dijkstra's algorithm. A user study was conducted to validate improvement in understanding of text instructions and resemblance to actual ground truth.
+
+Text is the easiest means to record information and can communicate a fact, argument or logical sequence. But it need not always be the best means for understanding a concept, while images invoke lateral thinking, objectivity and global context. By establishing a better balance between the two, comprehension of the textual instructions becomes easier. 
+
+We developed a multi-stage framework to provide visual aid for a sequence of text-based instructions in the form of coherent images. For each instruction, the framework mines visualisable phrases consisting of head action verbs and noun phrases using standard practices like POS tagging, Dependency parsing and Co-reference resolution. For each visualisable phrase, an API query is then made to retrieve a set of images from a dataset crawled from sources such as WikiHow, Flickr, Google etc. Phrases and images together dictate the action being conducted in the instruction. Across instructions sharing common information in the form of latent/non-latent entities, coherency is maintained using a graph based matching method utilising Dijkstra's algorithm. 
