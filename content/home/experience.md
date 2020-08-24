@@ -27,13 +27,12 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Software Developer"
+  title = "Research Engineer"
   company = "IBM Research, India"
   company_url = "https://www.research.ibm.com/labs/india/"
   location = "New Delhi"
   date_start = "2017-07-22"
   date_end = "2019-07-22"
   description = """"""
-  # description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
