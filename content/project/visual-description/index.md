@@ -20,7 +20,7 @@ links:
   name: Link
   url: https://github.com/jabhinav/Coherent-Visual-Description-of-Textual-Instructions
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/jabhinav/Coherent-Visual-Description-of-Textual-Instructions/blob/master/ism_preprint.pdf"
 url_slides: ""
 url_video: ""
 
