@@ -20,7 +20,7 @@ links:
   name: Link
   url: https://github.com/jabhinav/EducationEnrichment
 url_code: ""
-url_pdf: "https://github.com/jabhinav/Coherent-Visual-Description-of-Textual-Instructions/blob/master/ism_preprint.pdf"
+url_pdf: "https://github.com/jabhinav/Educational-Content-Enrichment/blob/master/Content_Driven_Enrichment_Preprint.pdf"
 url_slides: ""
 url_video: ""
 
