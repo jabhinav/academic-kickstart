@@ -20,7 +20,7 @@ links:
   name: Link
   url: https://github.com/jabhinav/Deep-Video-Understanding
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/jabhinav/Deep-Metric-Learning-for-Video-Understanding/blob/master/Radial_Loss_Preprint.pdf"
 url_slides: ""
 url_video: ""
 
